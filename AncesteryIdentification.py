@@ -32,9 +32,9 @@ if __name__ == '__main__':
     upper = np.array([60, 255, 255], dtype="uint8")
     # Prepare data use the videos to produce images to be used in training the model and save it in the path_train_ancestry
     # and path_test_ancestry, if you already has produced the images, you set the prepare_data to false
-    prepare_data = False
+    prepare_data = True
     # Train the model, if you already trained it, you set the train to false
-    train = False
+    train = True
     # Produce the output of the model, if you don't need it, set the test to false
     test = True
 
