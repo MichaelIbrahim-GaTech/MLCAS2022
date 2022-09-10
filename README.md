@@ -1,7 +1,7 @@
 # MLCAS2022
 Solution to the MLCAS 2022 Shared Task (https://eval.ai/web/challenges/challenge-page/1810/overview)
 
-The final submission file can be obtained by running the following instruction:
+The final submission file ("submission.csv") can be obtained by running the following three programs consecutively:
 
 python AncesteryIdentification.py
 
